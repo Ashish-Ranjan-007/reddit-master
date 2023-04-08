@@ -1,0 +1,43 @@
+.card{
+    height: 200px;
+    max-width: 400px;
+    min-width: 200px;
+    background-color: rgb(250, 226, 194);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 35%;
+
+}
+
+.interactives{
+display: flex;
+
+}
+
+.upvote{
+ float:left;
+
+}
+
+
+.downvote{
+    float: right;
+  
+}
+
+.upvote-button-stat{
+
+    background: rgb(250, 25, 25);
+
+}
+
+.downvote-button-stat{
+    background-color: rgb(41, 37, 37);
+
+}

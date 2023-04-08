@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+}
+
+.header-items{
+    list-style-type: none;
+}
+
+.list-item{
+    list-style: none;
+}

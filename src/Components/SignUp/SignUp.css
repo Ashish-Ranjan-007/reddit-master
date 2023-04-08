@@ -1,0 +1,45 @@
+.signup-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    flex-grow: 1;
+    width: 100%;
+    align-items: center;
+    height: 500px;
+    background-color: rgb(255, 255, 118);
+    min-width: 150px;
+    min-height: 200px;
+
+}
+
+.container-item{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    outline: none;   
+    align-items: center;
+    margin-bottom: 5px;
+    
+}
+
+.sign-upform{
+
+    border: 1px solid gray;
+    padding: 3%;
+    border-radius: 10px;
+    min-width: 150px;
+
+}
+
+.sign-upform h2{
+    margin-left: 30%;
+}
+
+.sign-upform input{
+    height: 20%;
+}
+
+.sign-upform button{
+    margin-top: 10px;
+}
